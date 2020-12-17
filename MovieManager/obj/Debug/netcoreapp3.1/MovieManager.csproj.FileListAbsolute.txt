@@ -1,0 +1,990 @@
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.exe
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.deps.json
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.dev.json
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csprojAssemblyReference.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.input.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.output.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorCoreGenerate.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.Manifest.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.xml
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CopyComplete
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Add.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.input.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.output.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorCoreGenerate.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.exe
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.deps.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.dev.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CopyComplete
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.Manifest.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.xml
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Site.cshtml.g.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csprojAssemblyReference.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfoInputs.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfo.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CoreCompileInputs.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.input.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.output.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorCoreGenerate.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Site.cshtml.g.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cs
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.pdb
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.exe
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.deps.json
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.json
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.dev.json
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.pdb
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.pdb
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.Views.pdb
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CopyComplete
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.Manifest.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.xml
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.genruntimeconfig.cache
+E:\ASP.NET\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csprojAssemblyReference.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.exe
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.deps.json
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.json
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.dev.json
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csprojAssemblyReference.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfoInputs.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfo.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.input.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.output.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorCoreGenerate.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Site.cshtml.g.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cs
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CopyComplete
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.Manifest.cache
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.xml
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\Lyubomira\Desktop\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.exe
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.deps.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.dev.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.input.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.output.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorCoreGenerate.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Site.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CopyComplete
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.Manifest.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.xml
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.genruntimeconfig.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csprojAssemblyReference.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.exe
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.deps.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.runtimeconfig.dev.json
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csprojAssemblyReference.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfoInputs.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.AssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorAssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.input.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.TagHelpers.output.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorCoreGenerate.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Site.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.RazorTargetAssemblyInfo.cs
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.Views.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.csproj.CopyComplete
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.Manifest.cache
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\staticwebassets\MovieManager.StaticWebAssets.xml
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.dll
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.pdb
+C:\Users\lyubo\OneDrive\Работен плот\ASP.NET\MoviesManager\MovieManager - Copy\MovieManager\obj\Debug\netcoreapp3.1\MovieManager.genruntimeconfig.cache

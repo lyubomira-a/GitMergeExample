@@ -1,0 +1,54 @@
+﻿@model MovieManager.Models.Users.IndexVM
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Site.cshtml";
+}
+
+<h1>Users</h1>
+
+<a class="btn btn-primary" href="/Users/Edit">Add New</a>
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Items[0].FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Items[0].LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Items[0].Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Items[0].Password)
+        </th>
+    </tr>
+
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                <a href="/Users/Edit?Id=@item.Id">Edit</a> |
+                <a href="/Users/Delete?Id=@item.Id"
+                   onclick="return confirm('Delete item?')">Delete
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>
+

@@ -1,0 +1,54 @@
+﻿@using MovieManager.Entities;
+@using MovieManager.Extensions;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/sb-admin-2.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" href="/Home/Index">Home</a>               
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="navbar-brand" href="/Users/Index">Users</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="navbar-brand" href="/Movies/Index">Movies</a>
+                        </li>
+                        <li class="nav-item">
+                            @if (this.ViewContext.HttpContext.Session.GetObject<User>("loggedUser") == null)
+                            {
+                                <a class="navbar-brand" href="/Home/Login">Login</a>
+
+                            }
+                            else
+                            {
+                                <a class="navbar-brand" href="/Home/Logout">Logout</a>
+                            }
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - MovieManager
+        </div>
+    </footer>
+
+</body>
+</html>
